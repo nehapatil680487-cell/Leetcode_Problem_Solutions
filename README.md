@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -47,6 +48,7 @@
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
