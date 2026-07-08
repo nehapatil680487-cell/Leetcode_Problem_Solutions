@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -64,6 +65,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -95,6 +97,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -107,4 +110,12 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
