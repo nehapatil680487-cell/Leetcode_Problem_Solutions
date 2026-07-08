@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
 
     public List<List<Integer>> subsets(int[] nums) {
@@ -15,20 +13,20 @@ class Solution {
                           List<Integer> current,
                           List<List<Integer>> ans) {
 
-        // Store current subset
-        ans.add(new ArrayList<>(current));
+        if (index == nums.length) {
 
-        // Try every remaining element
-        for (int i = index; i < nums.length; i++) {
-
-            // Choose
-            current.add(nums[i]);
-
-            // Explore
-            backtrack(i + 1, nums, current, ans);
-
-            // Unchoose (Backtrack)
-            current.remove(current.size() - 1);
+            ans.add(new ArrayList<>(current));
+            return;
         }
+
+        // Include current element
+        current.add(nums[index]);
+        backtrack(index + 1, nums, current, ans);
+
+        // Backtrack
+        current.remove(current.size() - 1);
+
+        // Exclude current element
+        backtrack(index + 1, nums, current, ans);
     }
 }
