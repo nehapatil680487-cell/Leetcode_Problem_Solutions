@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -32,6 +33,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -100,5 +102,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
