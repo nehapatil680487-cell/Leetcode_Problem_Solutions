@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0078-subsets/) | Medium |
+| [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -43,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -67,4 +70,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
