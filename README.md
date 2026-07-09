@@ -24,6 +24,7 @@
 | [0875-koko-eating-bananas](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1089-duplicate-zeros/) | Easy |
+| [1929-concatenation-of-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Hash Table
@@ -112,6 +113,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
