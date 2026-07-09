@@ -25,6 +25,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +125,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
