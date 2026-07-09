@@ -44,6 +44,7 @@
 | [0007-reverse-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Binary Search
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Matrix
