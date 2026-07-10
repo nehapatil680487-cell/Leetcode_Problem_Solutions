@@ -3,7 +3,7 @@ class Solution {
         int left=0;
         int right=nums.length-1;
 
-        int result[]=new int[nums.length];
+        int result[] = new int[nums.length];
         int index=nums.length-1;
 
         while(left<=right){
@@ -11,9 +11,8 @@ class Solution {
                 result[index]=nums[left] * nums[left];
                 left++;
             }else{
-                result[index]=nums[right] * nums[right];
-                right--;
-                
+               result[index]=nums[right] * nums[right];
+               right--;
             }
             index--;
         }
