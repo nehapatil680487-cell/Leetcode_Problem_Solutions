@@ -3,14 +3,14 @@ class Solution {
 
         int n = nums.length;
 
-        int expected = n * (n + 1) / 2;
+        int expectedSum = n * (n + 1) / 2;
 
-        int actual = 0;
+        int actualSum = 0;
 
         for (int num : nums) {
-            actual += num;
+            actualSum += num;
         }
 
-        return expected - actual;
+        return expectedSum - actualSum;
     }
 }
