@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0724-find-pivot-index](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -107,6 +108,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Divide and Conquer
