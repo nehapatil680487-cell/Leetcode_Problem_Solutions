@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0136-single-number/) | Easy |
+| [0162-find-peak-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
