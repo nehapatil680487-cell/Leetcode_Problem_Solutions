@@ -43,6 +43,7 @@
 | [1672-richest-customer-wealth](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
