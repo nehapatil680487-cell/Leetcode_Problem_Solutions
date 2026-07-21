@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -178,6 +180,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
