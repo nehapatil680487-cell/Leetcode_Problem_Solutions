@@ -139,6 +139,7 @@
 | [0088-merge-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -153,6 +154,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
