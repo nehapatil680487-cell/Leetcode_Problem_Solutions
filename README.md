@@ -33,6 +33,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0561-array-partition](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -66,6 +67,7 @@
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -120,6 +122,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
