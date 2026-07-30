@@ -102,6 +102,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -237,4 +238,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
