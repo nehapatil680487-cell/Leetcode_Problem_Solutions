@@ -82,6 +82,7 @@
 | [0009-palindrome-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -95,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0162-find-peak-element/) | Medium |
