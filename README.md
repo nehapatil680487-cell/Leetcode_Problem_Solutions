@@ -245,4 +245,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
