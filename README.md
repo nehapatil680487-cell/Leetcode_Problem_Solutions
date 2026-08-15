@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -181,6 +182,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
