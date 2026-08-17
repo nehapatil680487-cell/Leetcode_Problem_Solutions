@@ -26,7 +26,7 @@ class Solution {
             }
         }
 
-        // Reverse the last word
+        // Reverse last word
         int left = start;
         int right = arr.length - 1;
 
