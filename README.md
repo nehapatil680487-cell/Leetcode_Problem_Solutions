@@ -52,6 +52,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -179,6 +180,7 @@
 | [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
