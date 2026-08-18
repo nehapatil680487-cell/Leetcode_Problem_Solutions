@@ -182,6 +182,7 @@
 | [0541-reverse-string-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -228,6 +229,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -267,5 +269,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
