@@ -6,10 +6,12 @@ class Solution {
 
        while(left < right){
         if(s.charAt(left) != s.charAt(right)){
+            
             //delete left character or right character
             return isPalindrome(s,left+1,right) ||
                    isPalindrome(s,left,right-1);
         }
+
         left++;
         right--;
        }
