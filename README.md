@@ -72,6 +72,7 @@
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -177,6 +178,7 @@
 | [0058-length-of-last-word](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -204,6 +206,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,4 +274,8 @@
 | [0020-valid-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
