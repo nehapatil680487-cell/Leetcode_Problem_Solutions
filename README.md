@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0027-remove-element/) | Easy |
@@ -152,6 +153,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0027-remove-element/) | Easy |
@@ -258,6 +260,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Counting Sort
