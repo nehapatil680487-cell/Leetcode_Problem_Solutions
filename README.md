@@ -67,6 +67,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
@@ -88,6 +89,7 @@
 | [0007-reverse-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0066-plus-one/) | Easy |
@@ -185,6 +187,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0058-length-of-last-word/) | Easy |
