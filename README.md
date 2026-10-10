@@ -338,4 +338,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
