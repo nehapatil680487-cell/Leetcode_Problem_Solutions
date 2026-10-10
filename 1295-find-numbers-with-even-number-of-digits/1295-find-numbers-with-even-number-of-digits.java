@@ -1,23 +1,25 @@
- class Solution {
-    public int findNumbers(int[] nums) {
+class Solution {
+public int findNumbers(int[] nums) {
+
+
+    int answer = 0;
+
+    for (int i = 0; i < nums.length; i++) {
+
+        int num = nums[i];
         int count = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-
-            int digits = 0;
-            int temp = nums[i];
-
-            while (temp > 0) {
-                digits++;
-                temp = temp / 10;
-            }
-
-            if (digits % 2 == 0) {
-                count++;
-            }
+        while (num > 0) {
+            count++;
+            num = num / 10;
         }
 
-        return count;
+        if (count % 2 == 0) {
+            answer++;
+        }
     }
+
+    return answer;
+}
 
 }
