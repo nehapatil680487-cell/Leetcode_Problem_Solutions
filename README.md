@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -138,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
@@ -341,6 +343,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
