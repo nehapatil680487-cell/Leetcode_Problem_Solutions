@@ -95,6 +95,7 @@
 | [0013-roman-to-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -236,6 +237,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Simulation
@@ -354,4 +356,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
