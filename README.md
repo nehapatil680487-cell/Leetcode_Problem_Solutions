@@ -70,6 +70,7 @@
 | [0001-two-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
@@ -188,6 +189,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0078-subsets](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0058-length-of-last-word/) | Easy |
