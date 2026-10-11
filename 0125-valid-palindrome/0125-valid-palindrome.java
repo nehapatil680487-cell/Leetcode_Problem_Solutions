@@ -6,21 +6,19 @@ class Solution {
 
         while (left < right) {
 
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+            if (!Character.isLetterOrDigit(s.charAt(left))) {
                 left++;
-            }
+            } else if (!Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            } else {
+                if (Character.toLowerCase(s.charAt(left)) !=
+                    Character.toLowerCase(s.charAt(right))) {
+                    return false;
+                }
 
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                left++;
                 right--;
             }
-
-            if (Character.toLowerCase(s.charAt(left)) !=
-                Character.toLowerCase(s.charAt(right))) {
-                return false;
-            }
-
-            left++;
-            right--;
         }
 
         return true;
