@@ -76,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -145,6 +146,7 @@
 | [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -197,6 +199,7 @@
 | [0058-length-of-last-word](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
