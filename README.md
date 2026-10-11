@@ -102,6 +102,7 @@
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -243,6 +244,7 @@
 | [0062-unique-paths](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +366,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0062-unique-paths/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
