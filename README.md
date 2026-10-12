@@ -30,6 +30,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -122,6 +123,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -226,6 +228,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -300,6 +303,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Interactive
