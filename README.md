@@ -43,6 +43,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0561-array-partition](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0561-array-partition/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -300,6 +301,7 @@
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
