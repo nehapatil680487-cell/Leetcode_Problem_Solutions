@@ -1,31 +1,24 @@
 class Solution {
     public int pivotIndex(int[] nums) {
+        int totalsum=0;
 
-        int totalSum = 0;
-
-        // Calculate total sum of the array
-        for (int num : nums) {
-            totalSum += num;
+        for(int num:nums){
+            totalsum = totalsum + num;
         }
+        int leftsum=0;
 
-        int leftSum = 0;
+        for(int i=0;i<nums.length;i++){
+            int rightsum = totalsum - leftsum - nums[i];
+        
 
-        // Traverse the array
-        for (int i = 0; i < nums.length; i++) {
-
-            // Calculate right sum
-            int rightSum = totalSum - leftSum - nums[i];
-
-            // Check if current index is the pivot
-            if (leftSum == rightSum) {
-                return i;
-            }
-
-            // Update left sum
-            leftSum += nums[i];
+        if(leftsum == rightsum){
+            return i;
+        }else{
+            leftsum = leftsum + nums[i];
         }
-
-        // No pivot index found
+        }
         return -1;
+
+        
     }
 }
