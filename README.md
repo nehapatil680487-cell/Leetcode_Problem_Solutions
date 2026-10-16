@@ -55,6 +55,7 @@
 | [0905-sort-array-by-parity](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -135,6 +136,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Bit Manipulation
@@ -231,6 +233,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -306,6 +309,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/nehapatil680487-cell/Leetcode_Problem_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
